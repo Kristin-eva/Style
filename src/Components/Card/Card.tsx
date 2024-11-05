@@ -32,7 +32,7 @@ const Card = ({title, description, img}:Props) => {
           <h2 className="card-title">{title}</h2>
           <p className="card-description">{description}</p>
           <Button onClick={()=>{setVisible(true)}}>
-            hghghg
+            See more
           </Button>
         </div>
       </div>
