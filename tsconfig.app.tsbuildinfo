@@ -1,1 +1,1 @@
-{"root":["./src/app.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/components/button.tsx","./src/components/card.tsx","./src/components/modal.tsx"],"version":"5.6.3"}
+{"root":["./src/app.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/components/button.tsx","./src/components/modal.tsx","./src/components/card/card.tsx","./src/components/card/style.tsx"],"version":"5.6.3"}
